@@ -1,0 +1,37 @@
+nav {
+  height: 8vh;
+  min-height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fdfcfcfd;
+  /* margin-bottom: 10px; */
+}
+
+.title {
+  margin-left: 100px;
+  font-weight: 700;
+  font-size: 40px;
+
+}
+
+.link {
+  color: rgb(134, 4, 4);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+ 
+  font-size: 30px;
+}
+
+.checkout{
+  font-size: 25px;
+  font-weight: 700;
+}
+

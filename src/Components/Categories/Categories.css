@@ -1,0 +1,13 @@
+.categoryText{
+    color:white;
+    font: 20px 500;
+    padding-right: 8px;
+  }
+  .categorySelect{
+      width: 200px;
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 15px;
+      border:none;
+  }
+  
